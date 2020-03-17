@@ -1,0 +1,8 @@
+in_wos,in_mag,in_dim,count
+False,True,False,902
+True,True,False,92
+True,False,False,142
+True,False,True,4518
+False,False,True,66158
+True,True,True,513036
+False,True,True,475641

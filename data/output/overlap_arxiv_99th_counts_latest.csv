@@ -1,0 +1,128 @@
+label,keyword_hit,arxiv_scibert_cl_hit,elsevier_hit,arxiv_scibert_hit,arxiv_scibert_cv_hit,subject_hit,arxiv_scibert_ro_hit,Count,Pct
+Keyword,True,False,False,False,False,False,False,4616,0.058751654617656045
+Elsevier,False,False,True,False,False,False,False,10609,0.1350295285612463
+Subject,False,False,False,False,False,True,False,9739,0.12395631809388045
+Arxiv_Scibert,False,False,False,True,False,False,False,6004,0.07641788005294776
+Arxiv_Scibert_Cl,False,True,False,False,False,False,False,828,0.01053864168618267
+Arxiv_Scibert_Cv,False,False,False,False,True,False,False,575,0.007318501170960188
+Arxiv_Scibert_Ro,False,False,False,False,False,False,True,682,0.008680378780164952
+Keyword ∩ Elsevier,True,False,True,False,False,False,False,6405,0.08152173913043478
+Keyword ∩ Subject,True,False,False,False,False,True,False,852,0.010844109561144486
+Keyword ∩ Arxiv_Scibert,True,False,False,True,False,False,False,741,0.009431320639446085
+Keyword ∩ Arxiv_Scibert_Cl,True,True,False,False,False,False,False,41,0.0005218409530597699
+Keyword ∩ Arxiv_Scibert_Cv,True,False,False,False,True,False,False,74,0.0009418592811322676
+Keyword ∩ Arxiv_Scibert_Ro,True,False,False,False,False,False,True,10,0.00012727828123409023
+Elsevier ∩ Subject,False,False,True,False,False,True,False,1457,0.018544445575806943
+Elsevier ∩ Arxiv_Scibert,False,False,True,True,False,False,False,963,0.012256898482842888
+Elsevier ∩ Arxiv_Scibert_Cl,False,True,True,False,False,False,False,39,0.0004963852968129518
+Elsevier ∩ Arxiv_Scibert_Cv,False,False,True,False,True,False,False,17,0.00021637307809795335
+Elsevier ∩ Arxiv_Scibert_Ro,False,False,True,False,False,False,True,21,0.00026728439059158947
+Subject ∩ Arxiv_Scibert,False,False,False,True,False,True,False,2798,0.03561246308929844
+Subject ∩ Arxiv_Scibert_Cl,False,True,False,False,False,True,False,34,0.0004327461561959067
+Subject ∩ Arxiv_Scibert_Cv,False,False,False,False,True,True,False,181,0.002303736890337033
+Subject ∩ Arxiv_Scibert_Ro,False,False,False,False,False,True,True,163,0.0020746359841156705
+Arxiv_Scibert ∩ Arxiv_Scibert_Cl,False,True,False,True,False,False,False,956,0.012167803685979025
+Arxiv_Scibert ∩ Arxiv_Scibert_Cv,False,False,False,True,True,False,False,1177,0.014980653701252419
+Arxiv_Scibert ∩ Arxiv_Scibert_Ro,False,False,False,True,False,False,True,673,0.008565828327054272
+Arxiv_Scibert_Cl ∩ Arxiv_Scibert_Cv,False,True,False,False,True,False,False,0,0.0
+Arxiv_Scibert_Cl ∩ Arxiv_Scibert_Ro,False,True,False,False,False,False,True,8,0.00010182262498727217
+Arxiv_Scibert_Cv ∩ Arxiv_Scibert_Ro,False,False,False,False,True,False,True,1,1.2727828123409021e-05
+Keyword ∩ Elsevier ∩ Subject,True,False,True,False,False,True,False,1965,0.025010182262498726
+Keyword ∩ Elsevier ∩ Arxiv_Scibert,True,False,True,True,False,False,False,3231,0.041123612666734546
+Keyword ∩ Elsevier ∩ Arxiv_Scibert_Cl,True,True,True,False,False,False,False,38,0.0004836574686895428
+Keyword ∩ Elsevier ∩ Arxiv_Scibert_Cv,True,False,True,False,True,False,False,78,0.0009927705936259037
+Keyword ∩ Elsevier ∩ Arxiv_Scibert_Ro,True,False,True,False,False,False,True,20,0.00025455656246818045
+Keyword ∩ Subject ∩ Arxiv_Scibert,True,False,False,True,False,True,False,739,0.009405864983199267
+Keyword ∩ Subject ∩ Arxiv_Scibert_Cl,True,True,False,False,False,True,False,6,7.636696874045413e-05
+Keyword ∩ Subject ∩ Arxiv_Scibert_Cv,True,False,False,False,True,True,False,40,0.0005091131249363609
+Keyword ∩ Subject ∩ Arxiv_Scibert_Ro,True,False,False,False,False,True,True,5,6.363914061704511e-05
+Keyword ∩ Arxiv_Scibert ∩ Arxiv_Scibert_Cl,True,True,False,True,False,False,False,102,0.0012982384685877202
+Keyword ∩ Arxiv_Scibert ∩ Arxiv_Scibert_Cv,True,False,False,True,True,False,False,408,0.005192953874350881
+Keyword ∩ Arxiv_Scibert ∩ Arxiv_Scibert_Ro,True,False,False,True,False,False,True,32,0.0004072904999490887
+Keyword ∩ Arxiv_Scibert_Cl ∩ Arxiv_Scibert_Cv,True,True,False,False,True,False,False,0,0.0
+Keyword ∩ Arxiv_Scibert_Cl ∩ Arxiv_Scibert_Ro,True,True,False,False,False,False,True,0,0.0
+Keyword ∩ Arxiv_Scibert_Cv ∩ Arxiv_Scibert_Ro,True,False,False,False,True,False,True,0,0.0
+Elsevier ∩ Subject ∩ Arxiv_Scibert,False,False,True,True,False,True,False,1096,0.013949699623256288
+Elsevier ∩ Subject ∩ Arxiv_Scibert_Cl,False,True,True,False,False,True,False,5,6.363914061704511e-05
+Elsevier ∩ Subject ∩ Arxiv_Scibert_Cv,False,False,True,False,True,True,False,7,8.909479686386316e-05
+Elsevier ∩ Subject ∩ Arxiv_Scibert_Ro,False,False,True,False,False,True,True,10,0.00012727828123409023
+Elsevier ∩ Arxiv_Scibert ∩ Arxiv_Scibert_Cl,False,True,True,True,False,False,False,159,0.002023724671622034
+Elsevier ∩ Arxiv_Scibert ∩ Arxiv_Scibert_Cv,False,False,True,True,True,False,False,141,0.001794623765400672
+Elsevier ∩ Arxiv_Scibert ∩ Arxiv_Scibert_Ro,False,False,True,True,False,False,True,61,0.0007763975155279503
+Elsevier ∩ Arxiv_Scibert_Cl ∩ Arxiv_Scibert_Cv,False,True,True,False,True,False,False,0,0.0
+Elsevier ∩ Arxiv_Scibert_Cl ∩ Arxiv_Scibert_Ro,False,True,True,False,False,False,True,0,0.0
+Elsevier ∩ Arxiv_Scibert_Cv ∩ Arxiv_Scibert_Ro,False,False,True,False,True,False,True,0,0.0
+Subject ∩ Arxiv_Scibert ∩ Arxiv_Scibert_Cl,False,True,False,True,False,True,False,349,0.004442012015069749
+Subject ∩ Arxiv_Scibert ∩ Arxiv_Scibert_Cv,False,False,False,True,True,True,False,3826,0.048696670400162914
+Subject ∩ Arxiv_Scibert ∩ Arxiv_Scibert_Ro,False,False,False,True,False,True,True,1104,0.01405152224824356
+Subject ∩ Arxiv_Scibert_Cl ∩ Arxiv_Scibert_Cv,False,True,False,False,True,True,False,0,0.0
+Subject ∩ Arxiv_Scibert_Cl ∩ Arxiv_Scibert_Ro,False,True,False,False,False,True,True,0,0.0
+Subject ∩ Arxiv_Scibert_Cv ∩ Arxiv_Scibert_Ro,False,False,False,False,True,True,True,0,0.0
+Arxiv_Scibert ∩ Arxiv_Scibert_Cl ∩ Arxiv_Scibert_Cv,False,True,False,True,True,False,False,12,0.00015273393748090825
+Arxiv_Scibert ∩ Arxiv_Scibert_Cl ∩ Arxiv_Scibert_Ro,False,True,False,True,False,False,True,6,7.636696874045413e-05
+Arxiv_Scibert ∩ Arxiv_Scibert_Cv ∩ Arxiv_Scibert_Ro,False,False,False,True,True,False,True,36,0.0004582018124427248
+Arxiv_Scibert_Cl ∩ Arxiv_Scibert_Cv ∩ Arxiv_Scibert_Ro,False,True,False,False,True,False,True,0,0.0
+Keyword ∩ Elsevier ∩ Subject ∩ Arxiv_Scibert,True,False,True,True,False,True,False,4775,0.06077537928927808
+Keyword ∩ Elsevier ∩ Subject ∩ Arxiv_Scibert_Cl,True,True,True,False,False,True,False,27,0.0003436513593320436
+Keyword ∩ Elsevier ∩ Subject ∩ Arxiv_Scibert_Cv,True,False,True,False,True,True,False,38,0.0004836574686895428
+Keyword ∩ Elsevier ∩ Subject ∩ Arxiv_Scibert_Ro,True,False,True,False,False,True,True,14,0.0001781895937277263
+Keyword ∩ Elsevier ∩ Arxiv_Scibert ∩ Arxiv_Scibert_Cl,True,True,True,True,False,False,False,568,0.007229406374096324
+Keyword ∩ Elsevier ∩ Arxiv_Scibert ∩ Arxiv_Scibert_Cv,True,False,True,True,True,False,False,1521,0.01935902657570512
+Keyword ∩ Elsevier ∩ Arxiv_Scibert ∩ Arxiv_Scibert_Ro,True,False,True,True,False,False,True,98,0.0012473271560940842
+Keyword ∩ Elsevier ∩ Arxiv_Scibert_Cl ∩ Arxiv_Scibert_Cv,True,True,True,False,True,False,False,0,0.0
+Keyword ∩ Elsevier ∩ Arxiv_Scibert_Cl ∩ Arxiv_Scibert_Ro,True,True,True,False,False,False,True,0,0.0
+Keyword ∩ Elsevier ∩ Arxiv_Scibert_Cv ∩ Arxiv_Scibert_Ro,True,False,True,False,True,False,True,0,0.0
+Keyword ∩ Subject ∩ Arxiv_Scibert ∩ Arxiv_Scibert_Cl,True,True,False,True,False,True,False,89,0.0011327767029834029
+Keyword ∩ Subject ∩ Arxiv_Scibert ∩ Arxiv_Scibert_Cv,True,False,False,True,True,True,False,1030,0.013109662967111291
+Keyword ∩ Subject ∩ Arxiv_Scibert ∩ Arxiv_Scibert_Ro,True,False,False,True,False,True,True,59,0.0007509418592811322
+Keyword ∩ Subject ∩ Arxiv_Scibert_Cl ∩ Arxiv_Scibert_Cv,True,True,False,False,True,True,False,0,0.0
+Keyword ∩ Subject ∩ Arxiv_Scibert_Cl ∩ Arxiv_Scibert_Ro,True,True,False,False,False,True,True,0,0.0
+Keyword ∩ Subject ∩ Arxiv_Scibert_Cv ∩ Arxiv_Scibert_Ro,True,False,False,False,True,True,True,0,0.0
+Keyword ∩ Arxiv_Scibert ∩ Arxiv_Scibert_Cl ∩ Arxiv_Scibert_Cv,True,True,False,True,True,False,False,1,1.2727828123409021e-05
+Keyword ∩ Arxiv_Scibert ∩ Arxiv_Scibert_Cl ∩ Arxiv_Scibert_Ro,True,True,False,True,False,False,True,0,0.0
+Keyword ∩ Arxiv_Scibert ∩ Arxiv_Scibert_Cv ∩ Arxiv_Scibert_Ro,True,False,False,True,True,False,True,5,6.363914061704511e-05
+Keyword ∩ Arxiv_Scibert_Cl ∩ Arxiv_Scibert_Cv ∩ Arxiv_Scibert_Ro,True,True,False,False,True,False,True,0,0.0
+Elsevier ∩ Subject ∩ Arxiv_Scibert ∩ Arxiv_Scibert_Cl,False,True,True,True,False,True,False,102,0.0012982384685877202
+Elsevier ∩ Subject ∩ Arxiv_Scibert ∩ Arxiv_Scibert_Cv,False,False,True,True,True,True,False,616,0.007840342124019958
+Elsevier ∩ Subject ∩ Arxiv_Scibert ∩ Arxiv_Scibert_Ro,False,False,True,True,False,True,True,165,0.0021000916403624884
+Elsevier ∩ Subject ∩ Arxiv_Scibert_Cl ∩ Arxiv_Scibert_Cv,False,True,True,False,True,True,False,0,0.0
+Elsevier ∩ Subject ∩ Arxiv_Scibert_Cl ∩ Arxiv_Scibert_Ro,False,True,True,False,False,True,True,0,0.0
+Elsevier ∩ Subject ∩ Arxiv_Scibert_Cv ∩ Arxiv_Scibert_Ro,False,False,True,False,True,True,True,0,0.0
+Elsevier ∩ Arxiv_Scibert ∩ Arxiv_Scibert_Cl ∩ Arxiv_Scibert_Cv,False,True,True,True,True,False,False,8,0.00010182262498727217
+Elsevier ∩ Arxiv_Scibert ∩ Arxiv_Scibert_Cl ∩ Arxiv_Scibert_Ro,False,True,True,True,False,False,True,0,0.0
+Elsevier ∩ Arxiv_Scibert ∩ Arxiv_Scibert_Cv ∩ Arxiv_Scibert_Ro,False,False,True,True,True,False,True,2,2.5455656246818042e-05
+Elsevier ∩ Arxiv_Scibert_Cl ∩ Arxiv_Scibert_Cv ∩ Arxiv_Scibert_Ro,False,True,True,False,True,False,True,0,0.0
+Subject ∩ Arxiv_Scibert ∩ Arxiv_Scibert_Cl ∩ Arxiv_Scibert_Cv,False,True,False,True,True,True,False,21,0.00026728439059158947
+Subject ∩ Arxiv_Scibert ∩ Arxiv_Scibert_Cl ∩ Arxiv_Scibert_Ro,False,True,False,True,False,True,True,2,2.5455656246818042e-05
+Subject ∩ Arxiv_Scibert ∩ Arxiv_Scibert_Cv ∩ Arxiv_Scibert_Ro,False,False,False,True,True,True,True,192,0.002443742999694532
+Subject ∩ Arxiv_Scibert_Cl ∩ Arxiv_Scibert_Cv ∩ Arxiv_Scibert_Ro,False,True,False,False,True,True,True,0,0.0
+Arxiv_Scibert ∩ Arxiv_Scibert_Cl ∩ Arxiv_Scibert_Cv ∩ Arxiv_Scibert_Ro,False,True,False,True,True,False,True,0,0.0
+Keyword ∩ Elsevier ∩ Subject ∩ Arxiv_Scibert ∩ Arxiv_Scibert_Cl,True,True,True,True,False,True,False,853,0.010856837389267895
+Keyword ∩ Elsevier ∩ Subject ∩ Arxiv_Scibert ∩ Arxiv_Scibert_Cv,True,False,True,True,True,True,False,4677,0.059528052133183997
+Keyword ∩ Elsevier ∩ Subject ∩ Arxiv_Scibert ∩ Arxiv_Scibert_Ro,True,False,True,True,False,True,True,310,0.003945626718256797
+Keyword ∩ Elsevier ∩ Subject ∩ Arxiv_Scibert_Cl ∩ Arxiv_Scibert_Cv,True,True,True,False,True,True,False,0,0.0
+Keyword ∩ Elsevier ∩ Subject ∩ Arxiv_Scibert_Cl ∩ Arxiv_Scibert_Ro,True,True,True,False,False,True,True,0,0.0
+Keyword ∩ Elsevier ∩ Subject ∩ Arxiv_Scibert_Cv ∩ Arxiv_Scibert_Ro,True,False,True,False,True,True,True,0,0.0
+Keyword ∩ Elsevier ∩ Arxiv_Scibert ∩ Arxiv_Scibert_Cl ∩ Arxiv_Scibert_Cv,True,True,True,True,True,False,False,15,0.00019091742185113532
+Keyword ∩ Elsevier ∩ Arxiv_Scibert ∩ Arxiv_Scibert_Cl ∩ Arxiv_Scibert_Ro,True,True,True,True,False,False,True,3,3.8183484370227064e-05
+Keyword ∩ Elsevier ∩ Arxiv_Scibert ∩ Arxiv_Scibert_Cv ∩ Arxiv_Scibert_Ro,True,False,True,True,True,False,True,26,0.00033092353120863454
+Keyword ∩ Elsevier ∩ Arxiv_Scibert_Cl ∩ Arxiv_Scibert_Cv ∩ Arxiv_Scibert_Ro,True,True,True,False,True,False,True,0,0.0
+Keyword ∩ Subject ∩ Arxiv_Scibert ∩ Arxiv_Scibert_Cl ∩ Arxiv_Scibert_Cv,True,True,False,True,True,True,False,4,5.0911312493636085e-05
+Keyword ∩ Subject ∩ Arxiv_Scibert ∩ Arxiv_Scibert_Cl ∩ Arxiv_Scibert_Ro,True,True,False,True,False,True,True,1,1.2727828123409021e-05
+Keyword ∩ Subject ∩ Arxiv_Scibert ∩ Arxiv_Scibert_Cv ∩ Arxiv_Scibert_Ro,True,False,False,True,True,True,True,32,0.0004072904999490887
+Keyword ∩ Subject ∩ Arxiv_Scibert_Cl ∩ Arxiv_Scibert_Cv ∩ Arxiv_Scibert_Ro,True,True,False,False,True,True,True,0,0.0
+Keyword ∩ Arxiv_Scibert ∩ Arxiv_Scibert_Cl ∩ Arxiv_Scibert_Cv ∩ Arxiv_Scibert_Ro,True,True,False,True,True,False,True,0,0.0
+Elsevier ∩ Subject ∩ Arxiv_Scibert ∩ Arxiv_Scibert_Cl ∩ Arxiv_Scibert_Cv,False,True,True,True,True,True,False,8,0.00010182262498727217
+Elsevier ∩ Subject ∩ Arxiv_Scibert ∩ Arxiv_Scibert_Cl ∩ Arxiv_Scibert_Ro,False,True,True,True,False,True,True,4,5.0911312493636085e-05
+Elsevier ∩ Subject ∩ Arxiv_Scibert ∩ Arxiv_Scibert_Cv ∩ Arxiv_Scibert_Ro,False,False,True,True,True,True,True,10,0.00012727828123409023
+Elsevier ∩ Subject ∩ Arxiv_Scibert_Cl ∩ Arxiv_Scibert_Cv ∩ Arxiv_Scibert_Ro,False,True,True,False,True,True,True,0,0.0
+Elsevier ∩ Arxiv_Scibert ∩ Arxiv_Scibert_Cl ∩ Arxiv_Scibert_Cv ∩ Arxiv_Scibert_Ro,False,True,True,True,True,False,True,0,0.0
+Subject ∩ Arxiv_Scibert ∩ Arxiv_Scibert_Cl ∩ Arxiv_Scibert_Cv ∩ Arxiv_Scibert_Ro,False,True,False,True,True,True,True,0,0.0
+Keyword ∩ Elsevier ∩ Subject ∩ Arxiv_Scibert ∩ Arxiv_Scibert_Cl ∩ Arxiv_Scibert_Cv,True,True,True,True,True,True,False,34,0.0004327461561959067
+Keyword ∩ Elsevier ∩ Subject ∩ Arxiv_Scibert ∩ Arxiv_Scibert_Cl ∩ Arxiv_Scibert_Ro,True,True,True,True,False,True,True,4,5.0911312493636085e-05
+Keyword ∩ Elsevier ∩ Subject ∩ Arxiv_Scibert ∩ Arxiv_Scibert_Cv ∩ Arxiv_Scibert_Ro,True,False,True,True,True,True,True,114,0.0014509724060686284
+Keyword ∩ Elsevier ∩ Subject ∩ Arxiv_Scibert_Cl ∩ Arxiv_Scibert_Cv ∩ Arxiv_Scibert_Ro,True,True,True,False,True,True,True,0,0.0
+Keyword ∩ Elsevier ∩ Arxiv_Scibert ∩ Arxiv_Scibert_Cl ∩ Arxiv_Scibert_Cv ∩ Arxiv_Scibert_Ro,True,True,True,True,True,False,True,0,0.0
+Keyword ∩ Subject ∩ Arxiv_Scibert ∩ Arxiv_Scibert_Cl ∩ Arxiv_Scibert_Cv ∩ Arxiv_Scibert_Ro,True,True,False,True,True,True,True,0,0.0
+Elsevier ∩ Subject ∩ Arxiv_Scibert ∩ Arxiv_Scibert_Cl ∩ Arxiv_Scibert_Cv ∩ Arxiv_Scibert_Ro,False,True,True,True,True,True,True,0,0.0
+Keyword ∩ Elsevier ∩ Subject ∩ Arxiv_Scibert ∩ Arxiv_Scibert_Cl ∩ Arxiv_Scibert_Cv ∩ Arxiv_Scibert_Ro,True,True,True,True,True,True,True,0,0.0

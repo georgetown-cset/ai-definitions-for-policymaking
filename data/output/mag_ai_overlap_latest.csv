@@ -1,0 +1,8 @@
+label,has_mag_id,arxiv_scibert_hit,mag_ai_hit,Count,Pct
+MAG,True,False,False,29012826,0.8909929479295599
+MAG AI,False,False,True,0,0.0
+SciBERT,False,True,False,171384,0.005263256167736287
+MAG ∩ MAG AI,True,False,True,1822694,0.055975502015333536
+MAG ∩ SciBERT,True,True,False,685068,0.021038652244776423
+MAG AI ∩ SciBERT,False,True,True,0,0.0
+MAG ∩ MAG AI ∩ SciBERT,True,True,True,870380,0.026729641642593876

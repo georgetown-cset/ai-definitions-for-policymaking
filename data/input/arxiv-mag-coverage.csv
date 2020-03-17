@@ -1,0 +1,20 @@
+field,arxiv_coverage
+Biology,TRUE
+Medicine,FALSE
+Geology,TRUE
+Chemistry,FALSE
+Psychology,FALSE
+Philosophy,FALSE
+Sociology,FALSE
+Engineering,TRUE
+Economics,TRUE
+Computer Science,TRUE
+Art,FALSE
+Physics,TRUE
+History,FALSE
+Political Science,FALSE
+Materials Science,TRUE
+Mathematics,TRUE
+Geography,FALSE
+Business,FALSE
+Environmental Science,FALSE

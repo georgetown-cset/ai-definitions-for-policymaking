@@ -1,0 +1,12 @@
+,Count
+None,1581
+(A) Keyword Only,1456
+(B) Elsevier Only,3521
+(C) SciBERT Only,7980
+(A ∩ B) Keyword ∩ Elsevier,2913
+(A ∩ C) Keyword ∩ SciBERT,1611
+(B ∩ C) Elsevier ∩ SciBERT,1622
+(A ∩ B ∩ C) Elsevier ∩ SciBERT,8939
+Total Keyword Hits,14919
+Total Elsevier Hits,16995
+Total SciBERT Hits,20152

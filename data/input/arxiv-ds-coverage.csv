@@ -1,0 +1,176 @@
+subject,discipline,arxiv_overlap
+Agricultural and Veterinary Sciences,Veterinary Sciences,0
+Agricultural and Veterinary Sciences,,0
+Agricultural and Veterinary Sciences,Crop and Pasture Production,0
+Agricultural and Veterinary Sciences,Forestry Sciences,0
+Agricultural and Veterinary Sciences,Horticultural Production,0
+Agricultural and Veterinary Sciences,"Agriculture, Land and Farm Management",0
+Agricultural and Veterinary Sciences,Fisheries Sciences,0
+Agricultural and Veterinary Sciences,Animal Production,0
+Agricultural and Veterinary Sciences,Other Agricultural and Veterinary Sciences,0
+Biological Sciences,,1
+Biological Sciences,Biochemistry and Cell Biology,1
+Biological Sciences,Genetics,1
+Biological Sciences,Plant Biology,1
+Biological Sciences,Ecology,0
+Biological Sciences,Zoology,0
+Biological Sciences,Microbiology,1
+Biological Sciences,Evolutionary Biology,1
+Biological Sciences,Physiology,0
+Biological Sciences,Other Biological Sciences,1
+Built Environment and Design,Urban and Regional Planning,0
+Built Environment and Design,Design Practice and Management,0
+Built Environment and Design,Architecture,0
+Built Environment and Design,,0
+Built Environment and Design,Building,0
+Built Environment and Design,Other Built Environment and Design,0
+Chemical Sciences,Analytical Chemistry,0
+Chemical Sciences,,0
+Chemical Sciences,Physical Chemistry (incl. Structural),0
+Chemical Sciences,Organic Chemistry,0
+Chemical Sciences,Other Chemical Sciences,0
+Chemical Sciences,Medicinal and Biomolecular Chemistry,0
+Chemical Sciences,Macromolecular and Materials Chemistry,0
+Chemical Sciences,Inorganic Chemistry,0
+Chemical Sciences,Theoretical and Computational Chemistry,0
+"Commerce, Management, Tourism and Services",Business and Management,0
+"Commerce, Management, Tourism and Services","Banking, Finance and Investment",0
+"Commerce, Management, Tourism and Services",Marketing,0
+"Commerce, Management, Tourism and Services",,0
+"Commerce, Management, Tourism and Services","Accounting, Auditing and Accountability",0
+"Commerce, Management, Tourism and Services",Transportation and Freight Services,0
+"Commerce, Management, Tourism and Services",Tourism,0
+"Commerce, Management, Tourism and Services",Commercial Services,0
+Earth Sciences,Physical Geography and Environmental Geoscience,0
+Earth Sciences,Geophysics,1
+Earth Sciences,Geology,0
+Earth Sciences,Atmospheric Sciences,1
+Earth Sciences,,0
+Earth Sciences,Oceanography,0
+Earth Sciences,Geochemistry,0
+Earth Sciences,Other Earth Sciences,0
+Economics,Applied Economics,1
+Economics,Econometrics,1
+Economics,,1
+Economics,Economic Theory,1
+Economics,Other Economics,1
+Education,Specialist Studies In Education,0
+Education,Curriculum and Pedagogy,0
+Education,Education Systems,0
+Education,,0
+Education,Other Education,0
+Engineering,Electrical and Electronic Engineering,1
+Engineering,,1
+Engineering,Biomedical Engineering,1
+Engineering,Geomatic Engineering,1
+Engineering,Mechanical Engineering,1
+Engineering,Civil Engineering,1
+Engineering,Materials Engineering,1
+Engineering,Manufacturing Engineering,1
+Engineering,Interdisciplinary Engineering,1
+Engineering,Chemical Engineering,1
+Engineering,Aerospace Engineering,1
+Engineering,Resources Engineering and Extractive Metallurgy,1
+Engineering,Food Sciences,1
+Engineering,Maritime Engineering,1
+Engineering,Environmental Engineering,1
+Engineering,Other Engineering,1
+Engineering,Automotive Engineering,1
+Environmental Sciences,Environmental Science and Management,0
+Environmental Sciences,,0
+Environmental Sciences,Ecological Applications,0
+Environmental Sciences,Soil Sciences,0
+Environmental Sciences,Other Environmental Sciences,0
+History and Archaeology,Historical Studies,0
+History and Archaeology,Archaeology,0
+History and Archaeology,Curatorial and Related Studies,0
+History and Archaeology,,0
+History and Archaeology,Other History and Archaeology,0
+Information and Computing Sciences,Artificial Intelligence and Image Processing,1
+Information and Computing Sciences,Information Systems,1
+Information and Computing Sciences,Computation Theory and Mathematics,1
+Information and Computing Sciences,Computer Software,1
+Information and Computing Sciences,,1
+Information and Computing Sciences,Data Format,1
+Information and Computing Sciences,Library and Information Studies,1
+Information and Computing Sciences,Other Information and Computing Sciences,1
+Information and Computing Sciences,Distributed Computing,1
+"Language, Communication and Culture",Linguistics,0
+"Language, Communication and Culture",Literary Studies,0
+"Language, Communication and Culture",Language Studies,0
+"Language, Communication and Culture",Cultural Studies,0
+"Language, Communication and Culture",,0
+"Language, Communication and Culture",Communication and Media Studies,0
+"Language, Communication and Culture","Other Language, Communication and Culture",0
+Law and Legal Studies,Law,0
+Law and Legal Studies,,0
+Law and Legal Studies,Other Law and Legal Studies,0
+Mathematical Sciences,Statistics,1
+Mathematical Sciences,Applied Mathematics,1
+Mathematical Sciences,Numerical and Computational Mathematics,1
+Mathematical Sciences,,1
+Mathematical Sciences,Pure Mathematics,1
+Mathematical Sciences,Mathematical Physics,1
+Medical and Health Sciences,Clinical Sciences,0
+Medical and Health Sciences,Public Health and Health Services,0
+Medical and Health Sciences,Neurosciences,1
+Medical and Health Sciences,,0
+Medical and Health Sciences,Cardiorespiratory Medicine and Haematology,0
+Medical and Health Sciences,Oncology and Carcinogenesis,0
+Medical and Health Sciences,Paediatrics and Reproductive Medicine,0
+Medical and Health Sciences,Nursing,0
+Medical and Health Sciences,Ophthalmology and Optometry,0
+Medical and Health Sciences,Human Movement and Sports Science,0
+Medical and Health Sciences,Pharmacology and Pharmaceutical Sciences,0
+Medical and Health Sciences,Dentistry,0
+Medical and Health Sciences,Immunology,0
+Medical and Health Sciences,Other Medical and Health Sciences,0
+Medical and Health Sciences,Medical Microbiology,0
+Medical and Health Sciences,Medical Physiology,0
+Medical and Health Sciences,Nutrition and Dietetics,0
+Medical and Health Sciences,Complementary and Alternative Medicine,0
+Medical and Health Sciences,Medical Biochemistry and Metabolomics,0
+Philosophy and Religious Studies,Philosophy,0
+Philosophy and Religious Studies,Religion and Religious Studies,0
+Philosophy and Religious Studies,History and Philosophy of Specific Fields,0
+Philosophy and Religious Studies,Applied Ethics,0
+Philosophy and Religious Studies,,0
+Philosophy and Religious Studies,Other Philosophy and Religious Studies,0
+Physical Sciences,Other Physical Sciences,1
+Physical Sciences,,1
+Physical Sciences,Optical Physics,1
+Physical Sciences,Classical Physics,1
+Physical Sciences,"Atomic, Molecular, Nuclear, Particle and Plasma Physics",1
+Physical Sciences,Condensed Matter Physics,1
+Physical Sciences,Astronomical and Space Sciences,1
+Physical Sciences,Quantum Physics,1
+Psychology and Cognitive Sciences,Psychology,0
+Psychology and Cognitive Sciences,Cognitive Sciences,0
+Psychology and Cognitive Sciences,,0
+Psychology and Cognitive Sciences,Other Psychology and Cognitive Sciences,0
+Studies in Creative Arts and Writing,Performing Arts and Creative Writing,0
+Studies in Creative Arts and Writing,"Film, Television and Digital Media",0
+Studies in Creative Arts and Writing,Visual Arts and Crafts,0
+Studies in Creative Arts and Writing,Art Theory and Criticism,0
+Studies in Creative Arts and Writing,Journalism and Professional Writing,0
+Studies in Creative Arts and Writing,,0
+Studies in Creative Arts and Writing,Other Studies In Creative Arts and Writing,0
+Studies in Human Society,Political Science,0
+Studies in Human Society,Sociology,0
+Studies in Human Society,Policy and Administration,0
+Studies in Human Society,Other Studies In Human Society,0
+Studies in Human Society,Anthropology,0
+Studies in Human Society,Human Geography,0
+Studies in Human Society,,0
+Studies in Human Society,Criminology,0
+Studies in Human Society,Social Work,0
+Studies in Human Society,Demography,0
+Technology,Communications Technologies,1
+Technology,,1
+Technology,Nanotechnology,1
+Technology,Medical Biotechnology,1
+Technology,Other Technology,1
+Technology,Computer Hardware,1
+Technology,Industrial Biotechnology,1
+Technology,Agricultural Biotechnology,1
+Technology,Environmental Biotechnology,1

@@ -1,0 +1,16 @@
+label,keyword_hit,scibert_hit,elsevier_hit,subject_hit,Count,Pct
+Keyword,True,False,False,False,148586,0.03970001488222867
+Elsevier,False,False,True,False,434524,0.1160984834821957
+Scibert,False,True,False,False,1069055,0.2856359240434561
+Subject,False,False,False,True,622888,0.1664266005543029
+Keyword ∩ Elsevier,True,False,True,False,171609,0.045851425127026633
+Keyword ∩ Scibert,True,True,False,False,70437,0.018819740407976127
+Keyword ∩ Subject,True,False,False,True,31721,0.008475389148904847
+Elsevier ∩ Scibert,False,True,True,False,91645,0.024486209090236268
+Elsevier ∩ Subject,False,False,True,True,55352,0.014789248137517136
+Scibert ∩ Subject,False,True,False,True,313066,0.08364667505094558
+Keyword ∩ Elsevier ∩ Scibert,True,True,True,False,219901,0.05875434410117351
+Keyword ∩ Elsevier ∩ Subject,True,False,True,True,69661,0.01861240451126574
+Keyword ∩ Scibert ∩ Subject,True,True,False,True,65416,0.017478202344338434
+Elsevier ∩ Scibert ∩ Subject,False,True,True,True,74162,0.01981500614927276
+Keyword ∩ Elsevier ∩ Scibert ∩ Subject,True,True,True,True,304696,0.08141033296915959
